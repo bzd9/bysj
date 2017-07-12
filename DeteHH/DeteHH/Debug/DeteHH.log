@@ -1,0 +1,123 @@
+﻿生成启动时间为 2017/7/12 15:07:29。
+     1>项目“C:\Users\Dell\Desktop\DeteHH\DeteHH\DeteHH.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DDFCL.cpp
+         DDFCL.cpp
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(44): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(53): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(68): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(74): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(79): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(80): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(84): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(217): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(221): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(225): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(241): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(245): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(249): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(265): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(269): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(273): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(289): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(293): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(297): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(318): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(319): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(320): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(321): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(322): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(323): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(324): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(325): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(415): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(479): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(480): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(482): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(483): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(485): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(486): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(487): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(488): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(489): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(490): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(496): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(497): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(517): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(518): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(527): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(528): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(539): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(540): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(547): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(557): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(561): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(582): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(586): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(607): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(611): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(632): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(636): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(643): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(644): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(645): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(646): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(673): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(674): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(676): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(677): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(679): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(680): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(681): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(682): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(683): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(684): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(698): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(702): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(706): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(722): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(726): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(730): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(746): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(750): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(754): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(836): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(837): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(839): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(840): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(841): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(842): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(850): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(851): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(853): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(854): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(856): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(857): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(858): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(859): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(860): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(861): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(955): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(956): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(957): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(962): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(1010): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(1011): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(1100): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(1102): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(1116): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(1111) : 忽略“i”的定义
+                 c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(1100) : 使用“i”的定义
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(1209): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\dell\desktop\detehh\detehh\ddfcl.cpp(1210): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+       Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Dell\Desktop\DeteHH\Debug\DeteHH.exe" /INCREMENTAL /NOLOGO opencv_ml2410d.lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_objdetect2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_nonfree2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_videostab2410d.lib opencv_objdetect2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_nonfree2410.lib opencv_ocl2410.lib opencv_photo2410.lib opencv_stitching2410.lib opencv_superres2410.lib opencv_videostab2410.lib opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib opencv_ml2410.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Dell\Desktop\DeteHH\Debug\DeteHH.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Dell\Desktop\DeteHH\Debug\DeteHH.lib" /MACHINE:X86 Debug\DDFCL.obj
+         Debug\DeteHH.obj
+         Debug\LineFinder.obj
+         Debug\stdafx.obj
+         DeteHH.vcxproj -> C:\Users\Dell\Desktop\DeteHH\Debug\DeteHH.exe
+     1>已完成生成项目“C:\Users\Dell\Desktop\DeteHH\DeteHH\DeteHH.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.65
